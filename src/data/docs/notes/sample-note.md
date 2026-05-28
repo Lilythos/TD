@@ -1,7 +1,7 @@
 ---
 title: Sample Note
-date: 2025-01-01
-tags: note
+date: 2026-05-01
+tags: [note]
 type: note
 ---
 
