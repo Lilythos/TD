@@ -17,7 +17,7 @@ export const siteConfig = {
   subtitle: 'my-nexus',
   description: 'Hi! This is my personal site.',
   siteUrl: 'https://example.com',
-  startedAt: '2025-01-01T00:00:00+00:00',
+  startedAt: '2026-05-01T00:00:00+08:00',
 
   // --- External Services ---
   googleAnalyticsId: '',
