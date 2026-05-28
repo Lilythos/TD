@@ -1,9 +1,7 @@
 ## About This Blog
 
-本站开发提取有模板，欢迎 star:
-
-[https://github.com/dieWehmut/dieWehmut.github.io](https://github.com/dieWehmut/dieWehmut.github.io)
+This site is built with the [Nexus Starter](https://github.com/dieWehmut/diesuwa-starter) template.
 
 ## Copyright
 
-本站内容除特殊说明外，默认遵循署名与非商业使用的转载约定。
+All content on this site is subject to a CC-BY-NC license unless otherwise stated.

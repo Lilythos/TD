@@ -7,7 +7,7 @@ import fs from 'fs'
 const base = '/';
 
 // GitHub username used in dev-server proxies (contributions graph, trophy)
-const GITHUB_USER = 'dieWehmut';
+const GITHUB_USER = 'your-github-username';
 
 /** Custom plugin: copies the built index.html to 404.html so GitHub Pages
  *  serves the SPA for unknown paths (e.g. /services) instead of a 404. */
