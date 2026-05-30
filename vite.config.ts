@@ -4,10 +4,11 @@ import tailwindcss from '@tailwindcss/vite'
 import path from 'path'
 import fs from 'fs'
 
-const base = '/';
+// 👉 这里改成你的仓库名 /TD/
+const base = '/TD/';
 
-// GitHub username used in dev-server proxies (contributions graph, trophy)
-const GITHUB_USER = 'dieWehmut';
+// GitHub username 改成你自己的 Lilythos
+const GITHUB_USER = 'Lilythos';
 
 /** Custom plugin: copies the built index.html to 404.html so GitHub Pages
  *  serves the SPA for unknown paths (e.g. /services) instead of a 404. */
