@@ -1,14 +1,13 @@
 ---
-title: Hello World
-date: 2026-05-01
+title: How to Use This Template
+date: 2026-05-31
 tags: [intro, welcome]
 ---
 
-# Hello World
+# How to Use This Template
 
-Welcome to your new Nexus site! Edit or replace this post to get started.
-
-## Markdown Features
+Hello myself! This is a sample post to demonstrate how to use this template. You can write your content in Markdown, and it will be rendered beautifully on the site.
+### Markdown Features
 
 This template supports full GitHub-flavored Markdown:
 
